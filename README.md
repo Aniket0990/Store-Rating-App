@@ -8,7 +8,7 @@
 - The application features responsive UI, search, and secure password management.
 
 # Functionalities -
-# 1.System Administrator 
+**1.System Administrator**
 - Can add new stores, normal users, and admin users. 
 - Has access to a dashboard displaying: 
     -Total number of users
@@ -28,7 +28,7 @@
     - If the user is a Store Owner, their Rating should also be displayed. 
 - Can log out from the system.
   
-# 2.Normal User 
+**2.Normal User** 
 - Can sign up and log in to the platform. 
 - Signup form fields: 
     - Name 
@@ -48,7 +48,7 @@
 - Can submit ratings (between 1 to 5) for individual stores. 
 - Can log out from the system.
    
-# 3.Store Owner 
+**3.Store Owner** 
 - Can log in to the platform. 
 - Can update their password after logging in. 
 - Dashboard functionalities: 
@@ -57,9 +57,9 @@
 - Can log out from the system.
 
 # Technology Stack - 
-- Backend: Java, SpringBoot
-- Database: MySQL 
-- Frontend: ReactJs , HTML , CSS , JavaScript
+- **Backend**: Java, SpringBoot
+- **Database**: MySQL 
+- **Frontend**: ReactJs , HTML , CSS , JavaScript
 
 # Demo Images - 
 
@@ -83,5 +83,13 @@
 
 - <img width="1835" height="762" alt="Screenshot 2025-12-05 162024" src="https://github.com/user-attachments/assets/30ac3e5c-a55b-4138-9f10-8818f7c63dd5" />
 
-# CONTACT:- aniketshelke554@gmail.com
+# 📬 Contact - 
 - Feel free to contribute, report issues, or provide feedback to make the Nasa API Implementation project even better!
+  
+**Email** - aniketshelke554@gmail.com
+
+**Linkedin** - https://www.linkedin.com/in/shelkeaniket/
+
+**Instagram** - https://www.instagram.com/heyanikets/
+
+**Portfolio** - https://aniketshelke-portfolio.netlify.app/
