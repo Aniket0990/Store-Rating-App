@@ -84,7 +84,7 @@
 - <img width="1835" height="762" alt="Screenshot 2025-12-05 162024" src="https://github.com/user-attachments/assets/30ac3e5c-a55b-4138-9f10-8818f7c63dd5" />
 
 # 📬 Contact - 
-- Feel free to contribute, report issues, or provide feedback to make the Nasa API Implementation project even better!
+- Feel free to contribute, report issues, or provide feedback to make the Store Rating App project even better!
   
 **Email** - aniketshelke554@gmail.com
 
